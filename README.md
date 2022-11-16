@@ -5,5 +5,6 @@
 Testando 
 
 ````
-pip.install ...
+node app.js
+
 ````
